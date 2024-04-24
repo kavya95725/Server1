@@ -1,0 +1,6 @@
+gunicorn
+flask
+flask-heroku
+requests
+fake-useragent
+datetime
